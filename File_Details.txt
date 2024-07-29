@@ -1,0 +1,6 @@
+Fashin_Search_AI_Assessment_Shameer.ipynb
+Fashion_Search_AI_Design_Shameer.pdf
+CSV dataFile: Fashion Dataset v2.csv
+Images Folder: Please Refer to the original set available at the module kaggle link [https://www.kaggle.com/datasets/djagatiya/myntra-fashion-product-dataset]
+
+GitHub: https://github.com/ShameerSheikh/Fashion_Search_AI
